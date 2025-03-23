@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shop_id: 1
+  product_id: 1
+  user_id: 1
+  quantity_sold: 1
+  total_revenue: 9.99
+  sale_date: 2025-03-23
+
+two:
+  shop_id: 1
+  product_id: 1
+  user_id: 1
+  quantity_sold: 1
+  total_revenue: 9.99
+  sale_date: 2025-03-23

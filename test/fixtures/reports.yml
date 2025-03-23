@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shop_id: 1
+  total_sales: 9.99
+  total_expenses: 9.99
+  net_profit: 9.99
+  report_date: 2025-03-23
+
+two:
+  shop_id: 1
+  total_sales: 9.99
+  total_expenses: 9.99
+  net_profit: 9.99
+  report_date: 2025-03-23
